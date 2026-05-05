@@ -1,0 +1,14 @@
+ <!DOCTYPE html>
+   <html>
+    <head> 
+        <title> ida y vuelta  </title>
+        <meta charset="UTF-8">
+    </head>
+    <body> 
+        <h1> bienvenido </h1>
+        <a href="tp 3">  ir a pagina de palabras  </a>
+        <br>
+        <a href="ejercicio 2"> ir pagina de noticas  </a>
+        </body>
+</html>
+         

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"> 
+    <title> Noticias deportivas y politicas </title>
+</head>
+<body> <h1> Noticias deportivas y politicas </h1>
+    <h4> NOTICIAS POLITICAS: </h4>
+
+    <a href="tp4"> volver a pagina de inicio </a>
+    <p> <strong> <h2> Rusia y Ucrania: un conflicto que continua 
+        sin resolucion en 2026 </h2> </strong> </p> 
+        <br> 
+        <p> Actualmente, la guerra entre Rusia sigue siendo activa y sin una solucion definitiva. En 2026,ambos paises mantiene 
+            ofensivas militiares, especialmente con ataques de drones y bombardeos sobre infracestructura clave. 
+            <br>
+    En las ultimas semanas, Rusia intensifico sus ataaques sobre ciudades y puertos
+    ucranianos, mientras Ucrania respondio golpeando refinerias y objetivos estrategicos 
+    dentro del territorio Ruso. Aunque hubo intensos breves de tregua, los enfrentamientos se renaudaron 
+    rapidamente.
+    <br> 
+    Ademas el impacto militar, la guerra sigue afectando la economia mundial, la seguridad energetica 
+    y las relaciones entre potencias internacionales. La comunidad internacional continua 
+    aplicando sanciones a Rusia y enviando apoyo a Ucrania. 
+    <br>
+    El conflicto, que ya lleva varios años, sigue siendo uno de los principales focos de tension politica 
+    y humanitaria del mundo en 2026.
+        </p>
+
+
+        <h2> NOTICIAS DEPORTIVAS: </h2>
+        <strong> crece la expectativa rumbo al Mundial 2026 </strong>
+        <p> EL deporte internacional atraviesa un momento de gran emocion e intensidad en 2026 ,
+        con competencias que captan la atencion globa y preparativos cada vez mas fuertes
+        rumbo a la Copa Mundial de la FIFA 2026, que se celebrara en Estados Unidos, Canada y Mexico.
+        </p>
+      <img src="copamundial.jpg" alt="mundial" width="500px" height="300px">
+
+
+        <br>
+     <p> En el futbol, selecciones de todo el mundo ajustan sus planteles y estrategias con la mirada 
+        apuestan en el proximo Mundial, que sera uno de los eventos deportivos mas importantes
+        del año.
+        La expectativa crece entre aficionados, jugadores y entrenadores, ya que crece 
+        la competencia reunira a los  mejores equipos del planeta.
+        <br> 
+
+        
+        
+        Mientras tanto, en otras disciplinas como tenis, automovilismo y atletismo,
+        continuan desarollandose torneos de alto nivel que mantienen viva la emocion 
+        deportiva a nivel internacional.
+        En el mundial no solo representa una competencia futbolistica, si no tambien 
+        un fenomeno cultural y social que une a millones de personas alrededor del mundo. Por eso,
+        el deporte sigue consilidandose
+         como uno de los temas mas relevantes y apasionantes de la actualidad global.
+
+
+        </p>
+    <br> 
+    
+
+    
+
+</body>
+</html>

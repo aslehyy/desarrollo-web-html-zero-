@@ -1,0 +1,15 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    
+    <title>Fotos </title>
+    <meta charset="UTF-8">
+</head>
+  <body>
+    <h1>Galería de Fotos</h1>
+    <br>
+    <a href="fotos 2">Ir a la página 2</a>
+    <img src="mono.jpeg"alt="mono"> 
+ 
+  </body>
+</html>

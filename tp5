@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+    <html>
+    <head> 
+        <title> Periodico </title>
+        <meta charset="UTF-8">   </head>
+
+
+    <body> 
+        <h1>el gran periodico de hoy</h1>
+        <h3> paginas recomendadas </h3>
+        <p> <a href="https://www.elgrafico.com.ar/">  El Gráfico </a> </head>  </p>
+        <br>
+        <p> <a href="https://www.instagram.com/elgraficoweb/"> su pagina web  </a> </head> </p>
+
+        </body>
+    </html>

@@ -1,0 +1,15 @@
+<!DOCTYPE html> 
+<html>
+<head>
+   
+    <title> galeria pagina 2 </title>
+     <meta charset="UTF-8"> 
+
+</head>
+  <body>
+    <h1>Galería de Fotos</h1>
+    <br>
+    <a href="fotos 3">Ir a la página 3</a>
+    <img src="carpincho.jpg"alt="carpincho ">
+    </body>
+</html>

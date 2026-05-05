@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title> palabras </title>
+        <meta charset="UTF-8">
+    </head>
+    <body> 
+        <h1> definicion de palabras </h1>
+           <br>
+        <h2> 1. Perseverancia</h2>
+         <p> <em> La perseverancia : </em> es la cualidad que tiene una persona 
+             de <strong>mantenerse firme y constante </strong>
+            en el esfuerzo para alcanzar una meta, a pesar de las dificultades, es una actitud que 
+            demuestra determinacion, paciencia y compromiso para no rendirse. </p>
+           <br>
+        <h2> 2. Amor </h2>
+         <p> <em> El amor : </em> es una <strong> emoción profunda de cariño y compleja </strong>
+             que involucra el afecto,
+             cuidado y conexión con otra persona, ser vivo actividad o idea,
+              la compresion, el respeto 
+            y la entrega, y es una de las emociones mas importantes para construir relaciones 
+                sanas y significativas.  </p>
+
+        <h2> 3. creatividad  </h2>
+         <p> <em> La creatividad : </em> es la capacidad de <strong> pensar y generar
+                ideas nuevas y originales </strong>, y de encontrar soluciones innovadoras a problemas,
+                 es una habilidad que permite a las personas pensar fuera de lo convencional
+                 y expresar su imaginación es fundamental en el arte, ciencia, tecnologia 
+                y la vida cotidiana. </p>
+                <br>
+        <a href="tp4"> volver a pagina de inicio </a>
+    </body>
+</html>

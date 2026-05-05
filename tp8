@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title> galeria tp8</title>
+</head>
+<body> 
+    <h1>blog de juegos </h1>
+    <br>
+    
+    
+    <a href="https://blog.espaciotec.com.ar/tag/videojuegos/la-pagina-2/">Ir a blog de juegos</a>
+<br>
+   <h2> Enlace de blog de comics</h2>
+
+
+    <a href="https://www.laylita.com/recetas/mejores-blogs-de-cocina/" target="_blank">Ir a blog de comics</a>
+    
+
+</body>
+</html>

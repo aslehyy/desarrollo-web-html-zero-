@@ -1,0 +1,14 @@
+<!DOCTYPE html> 
+<html>
+<head>
+    
+    <title> galeria de fotos 3 </title>
+        <meta charset="UTF-8">
+    </head>
+  <body>
+    <h1>Galería de Fotos</h1>
+    <br>
+    <a href="fotos tp7">Ir a la página 1</a>
+    <img src="tortugamarina.jpg" alt="tortuga">
+  </body>
+</html>
