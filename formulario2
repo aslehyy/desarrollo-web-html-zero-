@@ -1,0 +1,83 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title> formulario 2
+    </title>
+</head>
+<body>
+    <h1>Formulario de registro web</h1>
+    <h3> mi web </h3>
+    <form action=" procesar formulario2.php" method="get">
+        <br>
+        <input type="text" name="nombre" placeholder="nombre">
+        <br>
+        <br>
+        <input type="text" name="apellido" placeholder="apellido">
+        <br>
+        <br>
+        <input type="email" name="email" placeholder="correo electrónico">
+        <br>
+        <br>
+        <input type="radio" name="informacion" value="desea recibir información"> Desea recibir información
+         <br>
+            <br>
+
+         <a href="https://www.google.com">condiciones generales </a>
+         <br>
+      <br>     
+     <br>
+        
+     <input type="radio" name="declaracion" value="acepto"> Declaro haber leído y
+      acepto los términos y condiciones
+
+     <br>
+            <br>
+            <h4>Datos personales</h4>
+        <input type ="radio" name="genero" value="masculino"> Masculino
+        <input type="radio" name="genero" value="femenino"> Femenino
+        
+        <br>
+        <br>
+        <input type="text" name="direccion" placeholder="dirección">
+        <br>
+  
+                <br>
+     <select name="menu">
+    <option value="1">Argentina</option>
+     <option value="2">chile</option>
+    <option value="3"> bolivia</option> 
+    <option value="4">peru</option>
+    <option value="5">uruguay</option>
+    <option value="6">paraguay</option>
+    <option value="7">venezuela</option>
+    <option value="8">colombia</option>
+    <option value="9">ecuador</option>
+     </select>
+    <br>
+  
+    
+
+    <h4>contraseña </h4>
+<input type="password" name="contraseña"> 
+<a href="recuperar.hmtl"> recuperar contraseña </a>
+<br>
+<br>
+
+       <select name="menu2">
+            <option value="1">CABA</option>
+            <option value="2">avellaneda</option>
+            <option value="3">lanus</option>
+        </select>
+        <br>
+        <br>
+    <label for="estado_civil">Estado Civil:</label>
+        <input type="radio" name="estado_civil" value="soltero"> Soltero
+        <input type="radio" name="estado_civil" value="casado"> Casado
+        <input type="radio" name="estado_civil" value="divorciado"> Divorciado
+        <br>
+        <br>
+      <input type = "submit" value= "enviar" >
+    </form>
+</body>
+</html>

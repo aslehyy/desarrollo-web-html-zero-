@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>formulario</title>
+</head>
+<body>
+   <h1> formulario </h1>
+     <h3>ingrese sus datos</h3> 
+    <h4>ingrese su nombre y apellido</h4>
+    <form action="procesar_formulario.php" method="post">
+   <input type="text" name="nombre" placeholder="nombre">
+    <br>
+   <input type="text" name="apellido" placeholder="apellido">
+    <br>
+    <h4>ingrese su contraseña</h4>
+    <br>
+    <input type="password" name= "contraseña" placeholder="contraseña">
+     <a href="#" style="color: rgb(255, 0, 136);">olvidaste tu contraseña?</a>
+    <br>
+     <input type="submit" value="enviar">
+     </form>
+  </body>
+</html>
